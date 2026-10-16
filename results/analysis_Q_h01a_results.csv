@@ -1,0 +1,13 @@
+design,contrast,feature_a,feature_b,n_subjects,icc_a,icc_b,gap,ci_low,ci_high,excludes_zero,n_boot_valid
+Study-Siesta retest,"prominence - latency, difference wave",p300_prominence_uv,p300_latency_s,19,0.6065,0.0595,0.5469,-0.2426,1.0543,False,3000
+Study-Siesta retest,"prominence - latency, target wave",tgt_p300_prominence_uv,tgt_p300_latency_s,19,0.3849,0.4552,-0.0703,-0.6217,0.4764,False,3000
+Study-Siesta retest,"prominence - amplitude, difference wave",p300_prominence_uv,p300_amplitude_uv,19,0.6065,0.2764,0.3301,-0.1411,0.6593,False,3000
+Parkinson ON/OFF,"prominence - latency, difference wave",p300_prominence_uv,p300_latency_s,18,0.7719,0.2146,0.5573,0.0908,1.0257,True,3000
+Parkinson ON/OFF,"prominence - latency, target wave",tgt_p300_prominence_uv,tgt_p300_latency_s,18,0.7493,0.2772,0.4721,-0.0729,0.9927,False,3000
+Parkinson ON/OFF,"prominence - amplitude, difference wave",p300_prominence_uv,p300_amplitude_uv,18,0.7719,0.6886,0.0833,-0.1828,0.328,False,3000
+ds003061 runs 1-2,"prominence - latency, difference wave",p300_prominence_uv,p300_latency_s,11,0.7391,0.5012,0.2378,-0.3765,0.739,False,3000
+ds003061 runs 1-2,"prominence - latency, target wave",tgt_p300_prominence_uv,tgt_p300_latency_s,11,0.666,0.626,0.04,-0.6389,0.3481,False,3000
+ds003061 runs 1-2,"prominence - amplitude, difference wave",p300_prominence_uv,p300_amplitude_uv,11,0.7391,0.7126,0.0264,-0.4993,0.4116,False,3000
+Pooled (Siesta + Parkinson),"prominence - latency, difference wave",p300_prominence_uv,p300_latency_s,37,0.6957,0.1354,0.5603,0.0995,0.8998,True,3000
+Pooled (Siesta + Parkinson),"prominence - latency, target wave",tgt_p300_prominence_uv,tgt_p300_latency_s,37,0.5912,0.3725,0.2187,-0.1899,0.5874,False,3000
+Pooled (Siesta + Parkinson),"prominence - amplitude, difference wave",p300_prominence_uv,p300_amplitude_uv,37,0.6957,0.5046,0.1911,-0.0553,0.3998,False,3000

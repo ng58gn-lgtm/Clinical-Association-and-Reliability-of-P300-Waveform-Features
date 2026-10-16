@@ -1,0 +1,11 @@
+n_subjects,icc_diff_wave,icc_diff_wave_band,icc_target,icc_target_band,observed_gap,ci_low,ci_high,n_boot_valid,design,feature_pretty,verdict
+19,0.0595,poor,0.4552,poor,0.3957,-0.2159,0.9079,3000,SIESTA TEST-RETEST,peak latency,no evidence of a difference -- CI includes zero
+19,0.2764,poor,0.2316,poor,-0.0448,-0.1792,0.1324,3000,SIESTA TEST-RETEST,peak amplitude,no evidence of a difference -- CI includes zero
+19,0.0987,poor,0.1487,poor,0.05,-0.0864,0.1886,3000,SIESTA TEST-RETEST,mean amplitude,no evidence of a difference -- CI includes zero
+19,0.0795,poor,0.178,poor,0.0986,-0.0435,0.2302,3000,SIESTA TEST-RETEST,area under curve,no evidence of a difference -- CI includes zero
+19,0.6065,moderate,0.3849,poor,-0.2216,-0.4104,-0.0105,3000,SIESTA TEST-RETEST,peak prominence,diff-wave MORE reliable -- CI excludes zero
+18,0.2146,poor,0.2772,poor,0.0626,-0.3041,0.3387,3000,PARKINSON ON/OFF,peak latency,no evidence of a difference -- CI includes zero
+18,0.6886,moderate,0.611,moderate,-0.0777,-0.4159,0.1587,3000,PARKINSON ON/OFF,peak amplitude,no evidence of a difference -- CI includes zero
+18,0.6773,moderate,0.5787,moderate,-0.0986,-0.2857,0.1673,3000,PARKINSON ON/OFF,mean amplitude,no evidence of a difference -- CI includes zero
+18,0.6731,moderate,0.5237,moderate,-0.1493,-0.4281,0.152,3000,PARKINSON ON/OFF,area under curve,no evidence of a difference -- CI includes zero
+18,0.7719,good,0.7493,moderate,-0.0226,-0.3359,0.1547,3000,PARKINSON ON/OFF,peak prominence,no evidence of a difference -- CI includes zero

@@ -1,0 +1,10 @@
+arm,where,n,n_participants,n_features,published_r2,recomputed_r2,reproduced,alpha_all_data,alpha_at_grid_limit,alpha_per_fold_median,r2_nested,optimism,nested_perm_draws,nested_perm_p,nested_null_mean
+"A  Siesta MMSE, classical","§3.4, Table 5 decision for H0-2b",57,33,2,-0.091,-0.091,True,25.7191,False,100000.0,-0.1019,0.0109,200.0,0.7313,-0.0879
+"A  Siesta MMSE, classical+advanced",§3.4,57,33,6,-0.0635,-0.0635,True,100000.0,True,100000.0,-0.1058,0.0422,,,
+"A  Siesta MMSE, target-only",§3.4,57,33,5,-0.0636,-0.0636,True,100000.0,True,100000.0,-0.1133,0.0498,,,
+"C  Siesta MMSE, classical","Table 19, RQ3 H0-3a",59,34,2,-0.0529,-0.0529,True,203.0918,False,88.8624,-0.0963,0.0434,200.0,0.7015,-0.0848
+"C  Siesta MMSE, classical+advanced","Table 19, RQ3 H0-3a",59,34,6,-0.0608,-0.0608,True,100000.0,True,307.0291,-0.1314,0.0706,,,
+"C  ds003061 age, classical","Table 19, exploratory",37,13,2,-0.1547,-0.1547,True,203.0918,False,88.8624,-0.1945,0.0397,200.0,0.4527,-0.2057
+"C  ds003061 age, classical+advanced","Table 19, exploratory",37,13,6,-0.1817,-0.1817,True,100000.0,True,1603.7187,-0.2567,0.075,,,
+"E  Siesta MMSE, difference wave","Table 21, RQ3 H0-3b",57,33,6,-0.0635,-0.0635,True,100000.0,True,100000.0,-0.1058,0.0422,,,
+"E  Siesta MMSE, target-only","Table 21, RQ3 H0-3b",57,33,5,-0.0636,-0.0636,True,100000.0,True,100000.0,-0.1133,0.0498,,,

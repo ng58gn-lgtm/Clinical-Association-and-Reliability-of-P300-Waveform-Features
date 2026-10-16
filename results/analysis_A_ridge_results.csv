@@ -1,0 +1,4 @@
+label,r,r2,ci_low,ci_high,perm_p,n_features,alpha,near_degenerate_alpha,null_mean,null_sd,excess_over_chance,verdict
+M0 classical,-0.1957,-0.091,-0.4181,0.0421,0.3447,2,25.7191,False,-0.3293,0.2817,0.1336,not distinguishable from chance
+M1 classical+advanced,-0.8906,-0.0635,-0.953,-0.7248,0.001,6,100000.0,True,-0.9432,0.0187,0.0527,"UNRELIABLE (near-degenerate ridge — see warning above, trust R^2 instead)"
+target-only,-0.8907,-0.0636,-0.9532,-0.7249,0.001,5,100000.0,True,-0.9433,0.0187,0.0526,"UNRELIABLE (near-degenerate ridge — see warning above, trust R^2 instead)"

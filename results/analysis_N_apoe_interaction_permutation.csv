@@ -1,0 +1,12 @@
+feature,feature_col,t_interaction,p_perm_maxT
+mean amplitude (target),tgt_p300_mean_uv,4.025541,0.066967
+peak amplitude (target),tgt_p300_amplitude_uv,3.98942,0.071964
+peak amplitude (diff),p300_amplitude_uv,3.750237,0.097451
+area under curve (target),tgt_p300_auc_uvs,2.912367,0.231384
+mean amplitude (diff),p300_mean_uv,2.761975,0.26087
+difference-wave mean,diff_mean_uv,2.264898,0.413793
+area under curve (diff),p300_auc_uvs,2.140553,0.458271
+peak prominence (diff),p300_prominence_uv,1.387287,0.770615
+peak latency (target),tgt_p300_latency_s,-1.046067,0.892054
+peak prominence (target),tgt_p300_prominence_uv,0.883658,0.944528
+peak latency (diff),p300_latency_s,-0.244159,1.0

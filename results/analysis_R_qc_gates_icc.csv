@@ -1,0 +1,45 @@
+gate,feature,feature_pretty,n_subjects_gate,n_pairs,icc,band
+none,p300_latency_s,Peak latency (diff),32,30,0.309,poor
+none,tgt_p300_latency_s,Peak latency (target),32,29,0.5051,moderate
+none,p300_prominence_uv,Peak prominence (diff),32,30,0.427,poor
+none,tgt_p300_prominence_uv,Peak prominence (target),32,29,0.2781,poor
+none,p300_amplitude_uv,Peak amplitude (diff),32,32,0.3342,poor
+none,tgt_p300_amplitude_uv,Peak amplitude (target),32,32,0.3363,poor
+none,p300_mean_uv,Mean amplitude (diff),32,32,0.4244,poor
+none,tgt_p300_mean_uv,Mean amplitude (target),32,32,0.4344,poor
+none,p300_auc_uvs,Waveform area (diff),32,32,0.415,poor
+none,tgt_p300_auc_uvs,Waveform area (target),32,32,0.4517,poor
+none,diff_mean_uv,Difference-wave mean,32,32,0.4179,poor
+acq_no_snr,p300_latency_s,Peak latency (diff),27,25,0.2785,poor
+acq_no_snr,tgt_p300_latency_s,Peak latency (target),27,24,0.4614,poor
+acq_no_snr,p300_prominence_uv,Peak prominence (diff),27,25,0.5547,moderate
+acq_no_snr,tgt_p300_prominence_uv,Peak prominence (target),27,24,0.3342,poor
+acq_no_snr,p300_amplitude_uv,Peak amplitude (diff),27,27,0.5376,moderate
+acq_no_snr,tgt_p300_amplitude_uv,Peak amplitude (target),27,27,0.4905,poor
+acq_no_snr,p300_mean_uv,Mean amplitude (diff),27,27,0.4395,poor
+acq_no_snr,tgt_p300_mean_uv,Mean amplitude (target),27,27,0.4653,poor
+acq_no_snr,p300_auc_uvs,Waveform area (diff),27,27,0.4515,poor
+acq_no_snr,tgt_p300_auc_uvs,Waveform area (target),27,27,0.5096,moderate
+acq_no_snr,diff_mean_uv,Difference-wave mean,27,27,0.45,poor
+acq,p300_latency_s,Peak latency (diff),20,20,0.0776,poor
+acq,tgt_p300_latency_s,Peak latency (target),20,20,0.4612,poor
+acq,p300_prominence_uv,Peak prominence (diff),20,20,0.5793,moderate
+acq,tgt_p300_prominence_uv,Peak prominence (target),20,20,0.3828,poor
+acq,p300_amplitude_uv,Peak amplitude (diff),20,20,0.3235,poor
+acq,tgt_p300_amplitude_uv,Peak amplitude (target),20,20,0.2621,poor
+acq,p300_mean_uv,Mean amplitude (diff),20,20,0.1806,poor
+acq,tgt_p300_mean_uv,Mean amplitude (target),20,20,0.1996,poor
+acq,p300_auc_uvs,Waveform area (diff),20,20,0.1394,poor
+acq,tgt_p300_auc_uvs,Waveform area (target),20,20,0.2115,poor
+acq,diff_mean_uv,Difference-wave mean,20,20,0.1501,poor
+full,p300_latency_s,Peak latency (diff),19,19,0.0595,poor
+full,tgt_p300_latency_s,Peak latency (target),19,19,0.4552,poor
+full,p300_prominence_uv,Peak prominence (diff),19,19,0.6065,moderate
+full,tgt_p300_prominence_uv,Peak prominence (target),19,19,0.3849,poor
+full,p300_amplitude_uv,Peak amplitude (diff),19,19,0.2764,poor
+full,tgt_p300_amplitude_uv,Peak amplitude (target),19,19,0.2316,poor
+full,p300_mean_uv,Mean amplitude (diff),19,19,0.0987,poor
+full,tgt_p300_mean_uv,Mean amplitude (target),19,19,0.1487,poor
+full,p300_auc_uvs,Waveform area (diff),19,19,0.0795,poor
+full,tgt_p300_auc_uvs,Waveform area (target),19,19,0.178,poor
+full,diff_mean_uv,Difference-wave mean,19,19,0.0823,poor

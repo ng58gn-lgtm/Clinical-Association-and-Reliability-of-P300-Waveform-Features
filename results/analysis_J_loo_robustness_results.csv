@@ -1,0 +1,2 @@
+feature,n,loo_beta_min,loo_beta_max,loo_p_min,loo_p_max,n_loo_significant
+tgt_p300_latency_s,19,-2.1869,-1.3648,0.0002,0.0319,19

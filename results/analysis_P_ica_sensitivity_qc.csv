@@ -1,0 +1,3 @@
+run,n_recordings,n_pass,pct_pass,n_OK,n_REVIEW,n_FAIL,mean_n_target_trials,mean_ica_components
+no_ica,39,37,94.87179487179488,34,3,2,69.0,0.0
+proxy_ica,39,34,87.17948717948718,32,2,5,73.38461538461539,0.5641025641025641

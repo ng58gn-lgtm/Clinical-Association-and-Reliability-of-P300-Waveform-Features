@@ -1,0 +1,4 @@
+dataset,outcome,metric,diff_wave,target_only,diff,ci_low,ci_high,perm_p,n
+parkinson_oddball,PD vs CTL (OFF),AUC,0.5595,0.5744,0.0149,-0.1875,0.203,0.9037,37
+erp_features_study_siesta,MMSE,R2,-0.0635,-0.0636,-0.0,-0.0001,0.0,0.7907,57
+erp_features_ds003061,age (EXPLORATORY),R2,-0.1817,-0.1817,-0.0,-0.0002,0.0002,0.907,37

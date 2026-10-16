@@ -1,0 +1,7 @@
+cohort,feature,n,primary_median,alt_median,median_shift,spearman,reproduced_unaffected,worst_unaffected_diff
+Alzheimer,p300_mean_uv,59,1.8153,2.09,0.3074,0.852,True,0.0
+Alzheimer,tgt_p300_mean_uv,59,1.6849,2.2913,0.4769,0.8991,True,0.0
+Parkinson,p300_mean_uv,63,1.8845,2.511,0.5884,0.9173,True,0.0
+Parkinson,tgt_p300_mean_uv,63,1.9848,2.6723,0.7067,0.9287,True,0.0
+healthy,p300_mean_uv,37,5.5118,5.3535,0.0751,0.7527,True,0.0
+healthy,tgt_p300_mean_uv,37,5.1058,5.1025,0.2095,0.8224,True,0.0

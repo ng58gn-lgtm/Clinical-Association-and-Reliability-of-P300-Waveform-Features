@@ -1,0 +1,17 @@
+sample,n,covariates,correction,r_observed,r_true_at_mmse_icc
+"primary, 34 participants",34,none,uncorrected,0.465,0.5262
+"primary, 34 participants",34,none,"Holm, strictest step",0.579,0.6552
+"primary, 34 participants",34,age and sex,uncorrected,0.478,0.5409
+"primary, 34 participants",34,age and sex,"Holm, strictest step",0.594,0.6721
+"target-wave features, 33 participants",33,none,uncorrected,0.471,0.533
+"target-wave features, 33 participants",33,none,"Holm, strictest step",0.586,0.6631
+"target-wave features, 33 participants",33,age and sex,uncorrected,0.485,0.5488
+"target-wave features, 33 participants",33,age and sex,"Holm, strictest step",0.601,0.6801
+"APOE subsample, 28 participants",28,none,uncorrected,0.508,0.5748
+"APOE subsample, 28 participants",28,none,"Holm, strictest step",0.627,0.7095
+"APOE subsample, 28 participants",28,age and sex,uncorrected,0.526,0.5952
+"APOE subsample, 28 participants",28,age and sex,"Holm, strictest step",0.645,0.7299
+"test-retest subsample, 19 participants",19,none,uncorrected,0.605,0.6846
+"test-retest subsample, 19 participants",19,none,"Holm, strictest step",0.726,0.8215
+"test-retest subsample, 19 participants",19,age and sex,uncorrected,0.634,0.7174
+"test-retest subsample, 19 participants",19,age and sex,"Holm, strictest step",0.754,0.8532

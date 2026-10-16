@@ -1,7 +1,6 @@
 # Clinical Association and Reliability of Classical and Advanced P300 Waveform Features in Alzheimer's and Parkinson's Disease
 
-Master's thesis, Master of Science in Engineering, University of Applied
-Sciences Technikum Wien — Medical Engineering & eHealth.
+Master's thesis, Master of Science in Engineering, FH Technikum Wien — Medical Engineering & eHealth.
 
 Goran Nikic · Vienna, October 2026
 

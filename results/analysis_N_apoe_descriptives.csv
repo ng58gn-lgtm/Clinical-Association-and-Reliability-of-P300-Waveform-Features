@@ -1,0 +1,6 @@
+variable,carrier_n,carrier_median,noncarrier_n,noncarrier_median,mannwhitney_p
+age (years),12,79.5,16,79.25,0.6419
+MMSE,12,23.1667,16,23.25,0.8156
+plasma p-tau217 (pg/mL),12,0.296,16,0.277,0.6259
+CDR (max observed),12,1.0,16,1.0,0.2317
+"sex (coded 0/1, UNVERIFIED direction)",12,1.0,16,1.0,1.0

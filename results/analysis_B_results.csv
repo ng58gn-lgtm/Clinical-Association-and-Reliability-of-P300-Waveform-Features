@@ -1,0 +1,7 @@
+analysis,label,auc,ci_low,ci_high,null_mean,excess_over_chance,perm_p
+OFF (primary),M0 classical,0.312,0.147,0.503,0.383,-0.07,0.6783
+OFF (primary),M1 classical+advanced,0.56,0.364,0.764,0.414,0.145,0.1808
+OFF (primary),target-only,0.574,0.373,0.774,0.42,0.154,0.1499
+ON (sensitivity),M0 classical,0.327,0.158,0.522,0.384,-0.056,0.6883
+ON (sensitivity),M1 classical+advanced,0.488,0.304,0.687,0.423,0.065,0.3596
+ON (sensitivity),target-only,0.455,0.26,0.652,0.425,0.031,0.4735

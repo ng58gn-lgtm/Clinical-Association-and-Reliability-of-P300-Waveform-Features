@@ -1,0 +1,4 @@
+dataset,outcome,metric,m0,m1,diff,ci_low,ci_high,perm_p_diff,n
+parkinson_oddball,PD vs CTL (OFF),AUC,0.4312,0.627,0.1958,0.04,0.361,0.1628,39
+study_siesta,MMSE,R2,-0.0529,-0.0608,-0.0079,-0.0378,0.0375,0.6611,59
+ds003061,"age (EXPLORATORY, not a prior committed outcome)",R2,-0.1547,-0.1817,-0.027,-0.1443,0.0697,0.4186,37

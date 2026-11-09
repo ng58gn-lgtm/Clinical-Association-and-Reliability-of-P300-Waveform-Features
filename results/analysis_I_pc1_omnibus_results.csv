@@ -1,0 +1,3 @@
+cohort,outcome,n_sessions,n_subjects,pc1_explained_var_pct,beta_per_sd,se,ci_low,ci_high,p
+study_siesta,MMSE,59,34,70.2257,-0.1309,0.3934,-0.9018,0.6401,0.7394
+parkinson_oddball,MMSE (OFF),21,21,61.8953,-0.0516,0.2309,-0.5388,0.4356,0.8258

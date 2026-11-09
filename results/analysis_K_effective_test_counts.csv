@@ -1,0 +1,4 @@
+analysis,n,m_raw,m_eff_nyholt,m_eff_liji,pc1_share,exact
+"A / G (Siesta MMSE, CDR)",57,11,6.6238,5.0,0.6709,True
+J (Siesta baseline features),19,11,6.8631,5.0,0.6496,True
+G2 (p-tau217) APPROXIMATED from A,57,11,6.6238,5.0,0.6709,False

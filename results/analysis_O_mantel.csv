@@ -1,0 +1,4 @@
+pair,mantel_r,p
+Study-Siesta vs Parkinson-Oddball,0.8988,0.0001
+Study-Siesta vs ds003061,0.8988,0.0001
+ds003061 vs Parkinson-Oddball,0.8362,0.0003

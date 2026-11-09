@@ -1,0 +1,4 @@
+interval,ms,features,alzheimer,parkinson,healthy,spread_points
+mean amplitude,300-500,"p300_mean_uv, tgt_p300_mean_uv",74.6,42.9,73.0,31.7
+difference-wave mean,300-600,diff_mean_uv,89.8,82.5,94.6,12.1
+waveform area and the peak search,300-650,"p300_auc_uvs, tgt_p300_auc_uvs, and the three peak features",96.6,93.7,97.3,3.6

@@ -1,0 +1,24 @@
+arm,feature,feature_col,max_selection_prob,selection_prob_sparse
+siesta_mmse_M1,peak latency (diff),p300_latency_s,1.0,0.6533
+siesta_mmse_M1,peak amplitude (diff),p300_amplitude_uv,1.0,0.2433
+siesta_mmse_M1,area under curve (diff),p300_auc_uvs,1.0,0.29
+siesta_mmse_M1,peak prominence (diff),p300_prominence_uv,1.0,0.5467
+siesta_mmse_M1,mean amplitude (diff),p300_mean_uv,0.99,0.1633
+siesta_mmse_M1,difference-wave mean,diff_mean_uv,0.99,0.1167
+siesta_mmse_all11,peak latency (diff),p300_latency_s,1.0,0.5367
+siesta_mmse_all11,peak latency (target),tgt_p300_latency_s,0.9933,0.3833
+siesta_mmse_all11,peak prominence (diff),p300_prominence_uv,0.9933,0.3433
+siesta_mmse_all11,peak prominence (target),tgt_p300_prominence_uv,0.9933,0.3367
+siesta_mmse_all11,peak amplitude (diff),p300_amplitude_uv,0.98,0.1167
+siesta_mmse_all11,mean amplitude (diff),p300_mean_uv,0.98,0.07
+siesta_mmse_all11,area under curve (diff),p300_auc_uvs,0.9733,0.0833
+siesta_mmse_all11,peak amplitude (target),tgt_p300_amplitude_uv,0.9733,0.1033
+siesta_mmse_all11,difference-wave mean,diff_mean_uv,0.97,0.03
+siesta_mmse_all11,mean amplitude (target),tgt_p300_mean_uv,0.9567,0.1067
+siesta_mmse_all11,area under curve (target),tgt_p300_auc_uvs,0.9567,0.2333
+parkinson_pdctl_M1,peak prominence (diff),p300_prominence_uv,0.9833,0.5867
+parkinson_pdctl_M1,peak latency (diff),p300_latency_s,0.9767,0.5767
+parkinson_pdctl_M1,mean amplitude (diff),p300_mean_uv,0.96,0.5833
+parkinson_pdctl_M1,peak amplitude (diff),p300_amplitude_uv,0.9467,0.22
+parkinson_pdctl_M1,area under curve (diff),p300_auc_uvs,0.91,0.08
+parkinson_pdctl_M1,difference-wave mean,diff_mean_uv,0.78,0.0967

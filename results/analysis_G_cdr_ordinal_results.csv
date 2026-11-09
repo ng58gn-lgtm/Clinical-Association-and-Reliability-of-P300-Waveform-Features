@@ -1,0 +1,12 @@
+feature,n,coef,se,p,converged,p_holm
+p300_latency_s,59,0.7784,0.3634,0.0322,True,0.3539
+p300_amplitude_uv,59,0.2009,0.351,0.567,True,1.0
+p300_mean_uv,59,0.1358,0.3581,0.7046,True,1.0
+p300_auc_uvs,59,0.4992,0.3673,0.1742,True,1.0
+p300_prominence_uv,59,-0.2022,0.3489,0.5621,True,1.0
+diff_mean_uv,59,0.3828,0.3631,0.2917,True,1.0
+tgt_p300_latency_s,57,0.6306,0.4025,0.1172,True,1.0
+tgt_p300_amplitude_uv,59,0.3323,0.3513,0.3442,True,1.0
+tgt_p300_mean_uv,59,0.2729,0.3577,0.4455,True,1.0
+tgt_p300_auc_uvs,59,0.5406,0.3682,0.1421,True,1.0
+tgt_p300_prominence_uv,57,-0.0407,0.3725,0.913,True,1.0

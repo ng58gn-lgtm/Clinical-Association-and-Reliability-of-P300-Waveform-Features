@@ -1,0 +1,43 @@
+pair,feature,feature_label,auc,separability,p,n_a,n_b
+study_siesta vs ds003061,p300_latency_s,Peak latency (diff),0.5057,0.5057,0.9621,34,13
+study_siesta vs ds003061,tgt_p300_latency_s,Peak latency (target),0.5769,0.5769,0.4278,33,13
+study_siesta vs ds003061,p300_prominence_uv,Peak prominence (diff),0.4005,0.5995,0.3009,34,13
+study_siesta vs ds003061,tgt_p300_prominence_uv,Peak prominence (target),0.4476,0.5524,0.5915,33,13
+study_siesta vs ds003061,p300_amplitude_uv,Peak amplitude (diff),0.129,0.871,0.0001,34,13
+study_siesta vs ds003061,tgt_p300_amplitude_uv,Peak amplitude (target),0.181,0.819,0.0008,34,13
+study_siesta vs ds003061,p300_mean_uv,Mean amplitude (diff),0.1086,0.8914,0.0,34,13
+study_siesta vs ds003061,tgt_p300_mean_uv,Mean amplitude (target),0.1606,0.8394,0.0004,34,13
+study_siesta vs ds003061,p300_auc_uvs,Waveform area (diff),0.1244,0.8756,0.0001,34,13
+study_siesta vs ds003061,tgt_p300_auc_uvs,Waveform area (target),0.1629,0.8371,0.0004,34,13
+study_siesta vs ds003061,diff_mean_uv,Difference-wave mean,0.1222,0.8778,0.0001,34,13
+study_siesta vs ds003061,snr,Signal-to-noise (excluded),0.1018,0.8982,0.0,34,13
+study_siesta vs ds003061,n_target_trials,Trial count (excluded),0.0,1.0,0.0,34,13
+study_siesta vs ds003061,prestim_rms_uv,Prestimulus RMS (excluded),0.6561,0.6561,0.1033,34,13
+study_siesta vs parkinson_oddball,p300_latency_s,Peak latency (diff),0.2577,0.7423,0.0003,34,42
+study_siesta vs parkinson_oddball,tgt_p300_latency_s,Peak latency (target),0.3314,0.6686,0.0139,33,40
+study_siesta vs parkinson_oddball,p300_prominence_uv,Peak prominence (diff),0.6331,0.6331,0.0477,34,42
+study_siesta vs parkinson_oddball,tgt_p300_prominence_uv,Peak prominence (target),0.7568,0.7568,0.0002,33,40
+study_siesta vs parkinson_oddball,p300_amplitude_uv,Peak amplitude (diff),0.486,0.514,0.8386,34,42
+study_siesta vs parkinson_oddball,tgt_p300_amplitude_uv,Peak amplitude (target),0.4685,0.5315,0.642,34,42
+study_siesta vs parkinson_oddball,p300_mean_uv,Mean amplitude (diff),0.4699,0.5301,0.6571,34,42
+study_siesta vs parkinson_oddball,tgt_p300_mean_uv,Mean amplitude (target),0.444,0.556,0.4062,34,42
+study_siesta vs parkinson_oddball,p300_auc_uvs,Waveform area (diff),0.3943,0.6057,0.1159,34,42
+study_siesta vs parkinson_oddball,tgt_p300_auc_uvs,Waveform area (target),0.3852,0.6148,0.0876,34,42
+study_siesta vs parkinson_oddball,diff_mean_uv,Difference-wave mean,0.4188,0.5812,0.2276,34,42
+study_siesta vs parkinson_oddball,snr,Signal-to-noise (excluded),0.3873,0.6127,0.0936,34,42
+study_siesta vs parkinson_oddball,n_target_trials,Trial count (excluded),0.9751,0.9751,0.0,34,42
+study_siesta vs parkinson_oddball,prestim_rms_uv,Prestimulus RMS (excluded),0.6478,0.6478,0.0279,34,42
+ds003061 vs parkinson_oddball,p300_latency_s,Peak latency (diff),0.2619,0.7381,0.0103,13,42
+ds003061 vs parkinson_oddball,tgt_p300_latency_s,Peak latency (target),0.2635,0.7365,0.0113,13,40
+ds003061 vs parkinson_oddball,p300_prominence_uv,Peak prominence (diff),0.7015,0.7015,0.0301,13,42
+ds003061 vs parkinson_oddball,tgt_p300_prominence_uv,Peak prominence (target),0.7981,0.7981,0.0014,13,40
+ds003061 vs parkinson_oddball,p300_amplitude_uv,Peak amplitude (diff),0.8974,0.8974,0.0,13,42
+ds003061 vs parkinson_oddball,tgt_p300_amplitude_uv,Peak amplitude (target),0.8095,0.8095,0.0008,13,42
+ds003061 vs parkinson_oddball,p300_mean_uv,Mean amplitude (diff),0.9286,0.9286,0.0,13,42
+ds003061 vs parkinson_oddball,tgt_p300_mean_uv,Mean amplitude (target),0.8535,0.8535,0.0001,13,42
+ds003061 vs parkinson_oddball,p300_auc_uvs,Waveform area (diff),0.8645,0.8645,0.0001,13,42
+ds003061 vs parkinson_oddball,tgt_p300_auc_uvs,Waveform area (target),0.7601,0.7601,0.0051,13,42
+ds003061 vs parkinson_oddball,diff_mean_uv,Difference-wave mean,0.8864,0.8864,0.0,13,42
+ds003061 vs parkinson_oddball,snr,Signal-to-noise (excluded),0.8462,0.8462,0.0002,13,42
+ds003061 vs parkinson_oddball,n_target_trials,Trial count (excluded),1.0,1.0,0.0,13,42
+ds003061 vs parkinson_oddball,prestim_rms_uv,Prestimulus RMS (excluded),0.5256,0.5256,0.7891,13,42

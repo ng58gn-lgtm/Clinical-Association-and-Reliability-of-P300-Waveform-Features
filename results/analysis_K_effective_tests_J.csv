@@ -1,0 +1,12 @@
+feature,feature_col,t,p_uncorrected,p_holm_m11,p_holm_meff_liji,p_perm_maxT
+peak latency (target),tgt_p300_latency_s,-3.468544,0.003763,0.041396,0.018817,0.024995
+mean amplitude (target),tgt_p300_mean_uv,3.10173,0.007806,0.078055,0.031222,0.04919
+mean amplitude (diff),p300_mean_uv,2.602582,0.020872,0.187849,0.062616,0.105979
+difference-wave mean,diff_mean_uv,2.287936,0.038214,0.305711,0.076428,0.181164
+area under curve (target),tgt_p300_auc_uvs,2.268847,0.039619,0.305711,0.076428,0.187562
+peak amplitude (target),tgt_p300_amplitude_uv,2.210137,0.044251,0.305711,0.076428,0.202959
+area under curve (diff),p300_auc_uvs,2.017606,0.063223,0.316115,0.076428,0.276745
+peak amplitude (diff),p300_amplitude_uv,1.864832,0.083304,0.333215,0.083304,0.34933
+peak prominence (target),tgt_p300_prominence_uv,1.804937,0.092631,0.333215,0.092631,0.375525
+peak prominence (diff),p300_prominence_uv,1.382819,0.18838,0.37676,0.18838,0.614677
+peak latency (diff),p300_latency_s,-1.363038,0.194392,0.37676,0.194392,0.626675

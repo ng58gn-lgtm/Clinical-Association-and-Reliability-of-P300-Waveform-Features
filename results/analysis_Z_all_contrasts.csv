@@ -1,0 +1,166 @@
+design,feature_a,feature_b,label,n_subjects,icc_a,icc_b,gap,ci95_low,ci95_high,excludes_zero_95,ci_bonf_low,ci_bonf_high,excludes_zero_bonf,draws_beyond_lower_tail,boot_p,n_boot_valid,holm_p,holm_significant
+Study-Siesta retest,p300_prominence_uv,tgt_p300_prominence_uv,peak prominence (diff) - peak prominence (tgt),19,0.6065,0.3849,0.2216,0.0031,0.4142,True,-0.1068,0.5414,False,10,0.045,20000,1.0,False
+Study-Siesta retest,p300_prominence_uv,diff_mean_uv,peak prominence (diff) - difference-wave mean,19,0.6065,0.0823,0.5242,0.0085,0.9028,True,-0.3603,1.0996,False,10,0.0467,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,p300_prominence_uv,mean amplitude (diff) - peak prominence (diff),19,0.0987,0.6065,-0.5078,-0.8494,-0.0015,True,-1.0573,0.3406,False,10,0.0495,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,p300_prominence_uv,waveform area (diff) - peak prominence (diff),19,0.0795,0.6065,-0.527,-0.9261,0.0114,False,-1.1397,0.3922,False,10,0.0536,20000,1.0,False
+Study-Siesta retest,p300_prominence_uv,tgt_p300_mean_uv,peak prominence (diff) - mean amplitude (tgt),19,0.6065,0.1487,0.4578,-0.0388,0.812,False,-0.3674,1.0211,False,10,0.07,20000,1.0,False
+Study-Siesta retest,p300_prominence_uv,tgt_p300_auc_uvs,peak prominence (diff) - waveform area (tgt),19,0.6065,0.178,0.4284,-0.1036,0.8516,False,-0.4732,1.1042,False,10,0.1164,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,p300_mean_uv,peak amplitude (diff) - mean amplitude (diff),19,0.2764,0.0987,0.1777,-0.06,0.4151,False,-0.2183,0.5624,False,10,0.1427,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,p300_prominence_uv,peak amplitude (diff) - peak prominence (diff),19,0.2764,0.6065,-0.3301,-0.658,0.1181,False,-0.8658,0.4118,False,10,0.1669,20000,1.0,False
+Study-Siesta retest,p300_prominence_uv,tgt_p300_amplitude_uv,peak prominence (diff) - peak amplitude (tgt),19,0.6065,0.2316,0.3749,-0.1437,0.7349,False,-0.4531,0.9543,False,10,0.1792,20000,1.0,False
+Study-Siesta retest,p300_latency_s,p300_prominence_uv,peak latency (diff) - peak prominence (diff),19,0.0595,0.6065,-0.5469,-1.0772,0.2155,False,-1.3607,0.606,False,10,0.1794,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,tgt_p300_auc_uvs,waveform area (diff) - waveform area (tgt),19,0.0795,0.178,-0.0986,-0.2345,0.0439,False,-0.3497,0.1485,False,10,0.1878,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,diff_mean_uv,peak amplitude (diff) - difference-wave mean,19,0.2764,0.0823,0.1941,-0.0858,0.5023,False,-0.2806,0.7338,False,10,0.1892,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,tgt_p300_latency_s,waveform area (diff) - peak latency (tgt),19,0.0795,0.4552,-0.3757,-0.8596,0.2094,False,-1.134,0.6472,False,10,0.2082,20000,1.0,False
+Study-Siesta retest,diff_mean_uv,tgt_p300_latency_s,difference-wave mean - peak latency (tgt),19,0.0823,0.4552,-0.3729,-0.8517,0.2063,False,-1.1288,0.6586,False,10,0.2111,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,tgt_p300_latency_s,mean amplitude (diff) - peak latency (tgt),19,0.0987,0.4552,-0.3565,-0.8173,0.1899,False,-1.0998,0.6224,False,10,0.2132,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,p300_auc_uvs,peak amplitude (diff) - waveform area (diff),19,0.2764,0.0795,0.1969,-0.1081,0.5236,False,-0.3361,0.7611,False,10,0.2138,20000,1.0,False
+Study-Siesta retest,diff_mean_uv,tgt_p300_auc_uvs,difference-wave mean - waveform area (tgt),19,0.0823,0.178,-0.0957,-0.2422,0.0504,False,-0.3699,0.1648,False,10,0.2218,20000,1.0,False
+Study-Siesta retest,diff_mean_uv,tgt_p300_prominence_uv,difference-wave mean - peak prominence (tgt),19,0.0823,0.3849,-0.3026,-0.7231,0.1969,False,-0.9981,0.5096,False,10,0.2462,20000,1.0,False
+Study-Siesta retest,tgt_p300_latency_s,tgt_p300_mean_uv,peak latency (tgt) - mean amplitude (tgt),19,0.4552,0.1487,0.3065,-0.2042,0.7232,False,-0.6448,0.9499,False,10,0.2476,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,tgt_p300_prominence_uv,mean amplitude (diff) - peak prominence (tgt),19,0.0987,0.3849,-0.2863,-0.6768,0.1849,False,-0.9486,0.4851,False,10,0.2526,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,tgt_p300_prominence_uv,waveform area (diff) - peak prominence (tgt),19,0.0795,0.3849,-0.3054,-0.748,0.2156,False,-1.0417,0.5634,False,10,0.2637,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,tgt_p300_amplitude_uv,mean amplitude (diff) - peak amplitude (tgt),19,0.0987,0.2316,-0.1329,-0.4142,0.1033,False,-0.5963,0.2743,False,10,0.2717,20000,1.0,False
+Study-Siesta retest,diff_mean_uv,tgt_p300_amplitude_uv,difference-wave mean - peak amplitude (tgt),19,0.0823,0.2316,-0.1493,-0.4918,0.1168,False,-0.7563,0.2584,False,10,0.2871,20000,1.0,False
+Study-Siesta retest,tgt_p300_latency_s,tgt_p300_auc_uvs,peak latency (tgt) - waveform area (tgt),19,0.4552,0.178,0.2772,-0.2399,0.7443,False,-0.6446,1.0684,False,10,0.3047,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,tgt_p300_amplitude_uv,waveform area (diff) - peak amplitude (tgt),19,0.0795,0.2316,-0.1521,-0.513,0.1328,False,-0.7986,0.2948,False,10,0.3118,20000,1.0,False
+Study-Siesta retest,tgt_p300_mean_uv,tgt_p300_prominence_uv,mean amplitude (tgt) - peak prominence (tgt),19,0.1487,0.3849,-0.2362,-0.6548,0.227,False,-0.8937,0.5064,False,10,0.3579,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,tgt_p300_mean_uv,peak amplitude (diff) - mean amplitude (tgt),19,0.2764,0.1487,0.1277,-0.1577,0.4251,False,-0.3325,0.6346,False,10,0.3852,20000,1.0,False
+Study-Siesta retest,tgt_p300_auc_uvs,tgt_p300_prominence_uv,waveform area (tgt) - peak prominence (tgt),19,0.178,0.3849,-0.2069,-0.694,0.3072,False,-1.0424,0.6446,False,10,0.4605,20000,1.0,False
+Study-Siesta retest,tgt_p300_amplitude_uv,tgt_p300_mean_uv,peak amplitude (tgt) - mean amplitude (tgt),19,0.2316,0.1487,0.0829,-0.1335,0.3699,False,-0.2612,0.5234,False,10,0.4684,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,tgt_p300_mean_uv,mean amplitude (diff) - mean amplitude (tgt),19,0.0987,0.1487,-0.05,-0.1918,0.0881,False,-0.3388,0.2224,False,10,0.482,20000,1.0,False
+Study-Siesta retest,p300_latency_s,tgt_p300_latency_s,peak latency (diff) - peak latency (tgt),19,0.0595,0.4552,-0.3957,-0.9225,0.2102,False,-1.2044,0.473,False,10,0.5015,20000,1.0,False
+Study-Siesta retest,diff_mean_uv,tgt_p300_mean_uv,difference-wave mean - mean amplitude (tgt),19,0.0823,0.1487,-0.0664,-0.2716,0.1174,False,-0.4416,0.2352,False,10,0.5034,20000,1.0,False
+Study-Siesta retest,p300_latency_s,tgt_p300_prominence_uv,peak latency (diff) - peak prominence (tgt),19,0.0595,0.3849,-0.3254,-0.9601,0.5122,False,-1.2964,0.9355,False,10,0.5053,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,tgt_p300_auc_uvs,peak amplitude (diff) - waveform area (tgt),19,0.2764,0.178,0.0984,-0.222,0.4476,False,-0.4924,0.7268,False,10,0.51,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,tgt_p300_auc_uvs,mean amplitude (diff) - waveform area (tgt),19,0.0987,0.178,-0.0794,-0.2946,0.1609,False,-0.5058,0.417,False,10,0.5235,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,tgt_p300_mean_uv,waveform area (diff) - mean amplitude (tgt),19,0.0795,0.1487,-0.0692,-0.3026,0.1448,False,-0.5044,0.2939,False,10,0.5428,20000,1.0,False
+Study-Siesta retest,p300_prominence_uv,tgt_p300_latency_s,peak prominence (diff) - peak latency (tgt),19,0.6065,0.4552,0.1513,-0.3545,0.6125,False,-0.6687,0.9518,False,10,0.5643,20000,1.0,False
+Study-Siesta retest,tgt_p300_latency_s,tgt_p300_amplitude_uv,peak latency (tgt) - peak amplitude (tgt),19,0.4552,0.2316,0.2236,-0.4485,0.7668,False,-0.8572,1.043,False,10,0.584,20000,1.0,False
+Study-Siesta retest,p300_latency_s,p300_amplitude_uv,peak latency (diff) - peak amplitude (diff),19,0.0595,0.2764,-0.2169,-0.8197,0.5573,False,-1.1515,0.9697,False,10,0.5945,20000,1.0,False
+Study-Siesta retest,tgt_p300_amplitude_uv,tgt_p300_prominence_uv,peak amplitude (tgt) - peak prominence (tgt),19,0.2316,0.3849,-0.1533,-0.5301,0.3041,False,-0.8228,0.5803,False,10,0.6041,20000,1.0,False
+Study-Siesta retest,tgt_p300_amplitude_uv,tgt_p300_auc_uvs,peak amplitude (tgt) - waveform area (tgt),19,0.2316,0.178,0.0536,-0.1942,0.383,False,-0.3519,0.6115,False,10,0.6255,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,tgt_p300_latency_s,peak amplitude (diff) - peak latency (tgt),19,0.2764,0.4552,-0.1788,-0.7534,0.4736,False,-1.0393,0.8785,False,10,0.6467,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,tgt_p300_amplitude_uv,peak amplitude (diff) - peak amplitude (tgt),19,0.2764,0.2316,0.0448,-0.1366,0.1811,False,-0.2877,0.322,False,10,0.6477,20000,1.0,False
+Study-Siesta retest,p300_amplitude_uv,tgt_p300_prominence_uv,peak amplitude (diff) - peak prominence (tgt),19,0.2764,0.3849,-0.1085,-0.4377,0.29,False,-0.6977,0.5297,False,10,0.6636,20000,1.0,False
+Study-Siesta retest,p300_latency_s,tgt_p300_amplitude_uv,peak latency (diff) - peak amplitude (tgt),19,0.0595,0.2316,-0.1721,-0.8346,0.6083,False,-1.1827,1.0137,False,10,0.6774,20000,1.0,False
+Study-Siesta retest,tgt_p300_mean_uv,tgt_p300_auc_uvs,mean amplitude (tgt) - waveform area (tgt),19,0.1487,0.178,-0.0293,-0.1812,0.1505,False,-0.2993,0.3045,False,10,0.8025,20000,1.0,False
+Study-Siesta retest,tgt_p300_latency_s,tgt_p300_prominence_uv,peak latency (tgt) - peak prominence (tgt),19,0.4552,0.3849,0.0703,-0.4902,0.6188,False,-0.8513,0.9343,False,10,0.8064,20000,1.0,False
+Study-Siesta retest,p300_latency_s,tgt_p300_auc_uvs,peak latency (diff) - waveform area (tgt),19,0.0595,0.178,-0.1185,-0.6807,0.5638,False,-1.0082,0.949,False,10,0.8186,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,p300_auc_uvs,mean amplitude (diff) - waveform area (diff),19,0.0987,0.0795,0.0192,-0.1809,0.2397,False,-0.3401,0.4322,False,10,0.8578,20000,1.0,False
+Study-Siesta retest,p300_mean_uv,diff_mean_uv,mean amplitude (diff) - difference-wave mean,19,0.0987,0.0823,0.0163,-0.1486,0.206,False,-0.2811,0.3794,False,10,0.8603,20000,1.0,False
+Study-Siesta retest,p300_latency_s,tgt_p300_mean_uv,peak latency (diff) - mean amplitude (tgt),19,0.0595,0.1487,-0.0892,-0.6606,0.5689,False,-1.0162,0.8538,False,10,0.8705,20000,1.0,False
+Study-Siesta retest,p300_auc_uvs,diff_mean_uv,waveform area (diff) - difference-wave mean,19,0.0795,0.0823,-0.0028,-0.0482,0.0456,False,-0.0853,0.0982,False,10,0.9102,20000,1.0,False
+Study-Siesta retest,p300_latency_s,p300_mean_uv,peak latency (diff) - mean amplitude (diff),19,0.0595,0.0987,-0.0391,-0.5757,0.6112,False,-0.9078,0.9395,False,10,0.962,20000,1.0,False
+Study-Siesta retest,p300_latency_s,p300_auc_uvs,peak latency (diff) - waveform area (diff),19,0.0595,0.0795,-0.02,-0.5856,0.6392,False,-0.9583,0.9911,False,10,0.9708,20000,1.0,False
+Study-Siesta retest,p300_latency_s,diff_mean_uv,peak latency (diff) - difference-wave mean,19,0.0595,0.0823,-0.0228,-0.5914,0.6416,False,-0.9652,0.978,False,10,0.9765,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,p300_prominence_uv,peak latency (diff) - peak prominence (diff),18,0.2146,0.7719,-0.5573,-1.0172,-0.088,True,-1.3304,0.1415,False,10,0.0146,20000,0.803,False
+Parkinson ON/OFF,p300_prominence_uv,tgt_p300_latency_s,peak prominence (diff) - peak latency (tgt),18,0.7719,0.2772,0.4947,0.0521,0.9954,True,-0.1806,1.3674,False,10,0.024,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,tgt_p300_prominence_uv,peak latency (diff) - peak prominence (tgt),18,0.2146,0.7493,-0.5347,-1.0275,0.053,False,-1.3381,0.3858,False,10,0.0769,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_latency_s,tgt_p300_prominence_uv,peak latency (tgt) - peak prominence (tgt),18,0.2772,0.7493,-0.4721,-1.003,0.084,False,-1.347,0.4012,False,10,0.0993,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,tgt_p300_latency_s,peak amplitude (diff) - peak latency (tgt),18,0.6886,0.2772,0.4114,-0.0941,0.9947,False,-0.4074,1.4292,False,10,0.1176,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,p300_amplitude_uv,peak latency (diff) - peak amplitude (diff),18,0.2146,0.6886,-0.474,-1.037,0.0986,False,-1.4162,0.446,False,10,0.1221,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,tgt_p300_latency_s,mean amplitude (diff) - peak latency (tgt),18,0.6773,0.2772,0.4001,-0.1509,0.9753,False,-0.5846,1.4455,False,10,0.1613,20000,1.0,False
+Parkinson ON/OFF,p300_prominence_uv,tgt_p300_auc_uvs,peak prominence (diff) - waveform area (tgt),18,0.7719,0.5237,0.2482,-0.1034,0.6597,False,-0.3289,0.9435,False,10,0.1837,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,p300_mean_uv,peak latency (diff) - mean amplitude (diff),18,0.2146,0.6773,-0.4627,-1.0392,0.2095,False,-1.4005,0.75,False,10,0.1857,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,tgt_p300_latency_s,waveform area (diff) - peak latency (tgt),18,0.6731,0.2772,0.3959,-0.1775,0.9862,False,-0.5696,1.4735,False,10,0.1887,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,p300_auc_uvs,peak latency (diff) - waveform area (diff),18,0.2146,0.6731,-0.4584,-1.0409,0.2079,False,-1.4156,0.6169,False,10,0.1988,20000,1.0,False
+Parkinson ON/OFF,diff_mean_uv,tgt_p300_latency_s,difference-wave mean - peak latency (tgt),18,0.6572,0.2772,0.3801,-0.2199,0.9799,False,-0.6679,1.4657,False,10,0.2251,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,diff_mean_uv,peak latency (diff) - difference-wave mean,18,0.2146,0.6572,-0.4426,-1.0399,0.2581,False,-1.4206,0.7703,False,10,0.2327,20000,1.0,False
+Parkinson ON/OFF,p300_prominence_uv,tgt_p300_mean_uv,peak prominence (diff) - mean amplitude (tgt),18,0.7719,0.5787,0.1933,-0.12,0.5331,False,-0.3787,0.8035,False,10,0.238,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,tgt_p300_amplitude_uv,peak latency (diff) - peak amplitude (tgt),18,0.2146,0.611,-0.3964,-0.9978,0.2317,False,-1.4427,0.6227,False,10,0.2449,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_amplitude_uv,tgt_p300_auc_uvs,peak amplitude (tgt) - waveform area (tgt),18,0.611,0.5237,0.0873,-0.0586,0.24,False,-0.1912,0.409,False,10,0.2527,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,tgt_p300_auc_uvs,peak amplitude (diff) - waveform area (tgt),18,0.6886,0.5237,0.1649,-0.1065,0.4861,False,-0.2563,0.7449,False,10,0.2696,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_latency_s,tgt_p300_amplitude_uv,peak latency (tgt) - peak amplitude (tgt),18,0.2772,0.611,-0.3338,-0.9523,0.2771,False,-1.4342,0.7654,False,10,0.2854,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,tgt_p300_mean_uv,peak latency (diff) - mean amplitude (tgt),18,0.2146,0.5787,-0.364,-1.0061,0.2542,False,-1.4724,0.6356,False,10,0.2876,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_latency_s,tgt_p300_mean_uv,peak latency (tgt) - mean amplitude (tgt),18,0.2772,0.5787,-0.3015,-0.9285,0.2153,False,-1.4558,0.5114,False,10,0.2909,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,tgt_p300_auc_uvs,mean amplitude (diff) - waveform area (tgt),18,0.6773,0.5237,0.1536,-0.1603,0.4439,False,-0.5065,0.6747,False,10,0.3288,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,tgt_p300_auc_uvs,waveform area (diff) - waveform area (tgt),18,0.6731,0.5237,0.1493,-0.1497,0.4318,False,-0.4301,0.6632,False,10,0.3507,20000,1.0,False
+Parkinson ON/OFF,p300_prominence_uv,tgt_p300_amplitude_uv,peak prominence (diff) - peak amplitude (tgt),18,0.7719,0.611,0.161,-0.1494,0.5795,False,-0.3662,0.8905,False,10,0.3634,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_mean_uv,tgt_p300_auc_uvs,mean amplitude (tgt) - waveform area (tgt),18,0.5787,0.5237,0.0549,-0.0621,0.2162,False,-0.1871,0.3946,False,10,0.3707,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_auc_uvs,tgt_p300_prominence_uv,waveform area (tgt) - peak prominence (tgt),18,0.5237,0.7493,-0.2256,-0.6627,0.2419,False,-0.9508,0.5332,False,10,0.3805,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,tgt_p300_auc_uvs,peak latency (diff) - waveform area (tgt),18,0.2146,0.5237,-0.3091,-0.9505,0.316,False,-1.4091,0.6589,False,10,0.3892,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,tgt_p300_mean_uv,peak amplitude (diff) - mean amplitude (tgt),18,0.6886,0.5787,0.11,-0.1134,0.3757,False,-0.23,0.6014,False,10,0.3931,20000,1.0,False
+Parkinson ON/OFF,diff_mean_uv,tgt_p300_auc_uvs,difference-wave mean - waveform area (tgt),18,0.6572,0.5237,0.1335,-0.1719,0.4071,False,-0.481,0.6132,False,10,0.4023,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,diff_mean_uv,waveform area (diff) - difference-wave mean,18,0.6731,0.6572,0.0158,-0.0212,0.0765,False,-0.0497,0.1856,False,10,0.4193,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_latency_s,tgt_p300_auc_uvs,peak latency (tgt) - waveform area (tgt),18,0.2772,0.5237,-0.2465,-0.8815,0.3264,False,-1.3904,0.7259,False,10,0.4241,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,tgt_p300_mean_uv,mean amplitude (diff) - mean amplitude (tgt),18,0.6773,0.5787,0.0986,-0.1534,0.2934,False,-0.4743,0.444,False,10,0.4284,20000,1.0,False
+Parkinson ON/OFF,p300_prominence_uv,diff_mean_uv,peak prominence (diff) - difference-wave mean,18,0.7719,0.6572,0.1147,-0.1836,0.5293,False,-0.446,0.9481,False,10,0.4368,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_mean_uv,tgt_p300_prominence_uv,mean amplitude (tgt) - peak prominence (tgt),18,0.5787,0.7493,-0.1707,-0.5498,0.2733,False,-0.8228,0.5438,False,10,0.4821,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,p300_prominence_uv,peak amplitude (diff) - peak prominence (diff),18,0.6886,0.7719,-0.0833,-0.3357,0.182,False,-0.5556,0.4129,False,10,0.4902,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,p300_prominence_uv,mean amplitude (diff) - peak prominence (diff),18,0.6773,0.7719,-0.0947,-0.4743,0.1765,False,-0.9574,0.4308,False,10,0.4909,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,p300_prominence_uv,waveform area (diff) - peak prominence (diff),18,0.6731,0.7719,-0.0989,-0.4825,0.1957,False,-0.8523,0.4458,False,10,0.4971,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,tgt_p300_mean_uv,waveform area (diff) - mean amplitude (tgt),18,0.6731,0.5787,0.0944,-0.1591,0.3256,False,-0.3929,0.541,False,10,0.5172,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,diff_mean_uv,mean amplitude (diff) - difference-wave mean,18,0.6773,0.6572,0.02,-0.0501,0.1192,False,-0.2197,0.2531,False,10,0.5527,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_amplitude_uv,tgt_p300_prominence_uv,peak amplitude (tgt) - peak prominence (tgt),18,0.611,0.7493,-0.1383,-0.5508,0.2832,False,-0.9213,0.5325,False,10,0.5534,20000,1.0,False
+Parkinson ON/OFF,diff_mean_uv,tgt_p300_mean_uv,difference-wave mean - mean amplitude (tgt),18,0.6572,0.5787,0.0786,-0.1786,0.2889,False,-0.4661,0.483,False,10,0.5838,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,tgt_p300_amplitude_uv,peak amplitude (diff) - peak amplitude (tgt),18,0.6886,0.611,0.0777,-0.1623,0.4216,False,-0.3192,0.6882,False,10,0.6157,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,diff_mean_uv,peak amplitude (diff) - difference-wave mean,18,0.6886,0.6572,0.0314,-0.0802,0.276,False,-0.1792,0.7255,False,10,0.6486,20000,1.0,False
+Parkinson ON/OFF,diff_mean_uv,tgt_p300_prominence_uv,difference-wave mean - peak prominence (tgt),18,0.6572,0.7493,-0.0921,-0.5469,0.3471,False,-1.0094,0.5868,False,10,0.6876,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,tgt_p300_amplitude_uv,mean amplitude (diff) - peak amplitude (tgt),18,0.6773,0.611,0.0663,-0.285,0.4321,False,-0.7461,0.7271,False,10,0.705,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,tgt_p300_amplitude_uv,waveform area (diff) - peak amplitude (tgt),18,0.6731,0.611,0.0621,-0.268,0.404,False,-0.6298,0.6639,False,10,0.7165,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,tgt_p300_prominence_uv,peak amplitude (diff) - peak prominence (tgt),18,0.6886,0.7493,-0.0607,-0.3281,0.3231,False,-0.5723,0.5538,False,10,0.7345,20000,1.0,False
+Parkinson ON/OFF,p300_auc_uvs,tgt_p300_prominence_uv,waveform area (diff) - peak prominence (tgt),18,0.6731,0.7493,-0.0763,-0.4996,0.3535,False,-0.8984,0.5887,False,10,0.7385,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,tgt_p300_prominence_uv,mean amplitude (diff) - peak prominence (tgt),18,0.6773,0.7493,-0.072,-0.4976,0.3449,False,-1.0095,0.5671,False,10,0.7535,20000,1.0,False
+Parkinson ON/OFF,p300_latency_s,tgt_p300_latency_s,peak latency (diff) - peak latency (tgt),18,0.2146,0.2772,-0.0626,-0.3317,0.3035,False,-0.5377,0.664,False,10,0.764,20000,1.0,False
+Parkinson ON/OFF,p300_prominence_uv,tgt_p300_prominence_uv,peak prominence (diff) - peak prominence (tgt),18,0.7719,0.7493,0.0226,-0.1503,0.3322,False,-0.2957,0.5696,False,10,0.7808,20000,1.0,False
+Parkinson ON/OFF,tgt_p300_amplitude_uv,tgt_p300_mean_uv,peak amplitude (tgt) - mean amplitude (tgt),18,0.611,0.5787,0.0323,-0.2128,0.2341,False,-0.4727,0.4905,False,10,0.7958,20000,1.0,False
+Parkinson ON/OFF,diff_mean_uv,tgt_p300_amplitude_uv,difference-wave mean - peak amplitude (tgt),18,0.6572,0.611,0.0463,-0.3063,0.387,False,-0.7279,0.6572,False,10,0.8017,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,p300_auc_uvs,peak amplitude (diff) - waveform area (diff),18,0.6886,0.6731,0.0156,-0.098,0.2265,False,-0.2076,0.6138,False,10,0.8109,20000,1.0,False
+Parkinson ON/OFF,p300_amplitude_uv,p300_mean_uv,peak amplitude (diff) - mean amplitude (diff),18,0.6886,0.6773,0.0114,-0.1274,0.2441,False,-0.2631,0.7448,False,10,0.8722,20000,1.0,False
+Parkinson ON/OFF,p300_mean_uv,p300_auc_uvs,mean amplitude (diff) - waveform area (diff),18,0.6773,0.6731,0.0042,-0.0987,0.1075,False,-0.357,0.227,False,10,0.9045,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_mean_uv,tgt_p300_auc_uvs,mean amplitude (tgt) - waveform area (tgt),11,0.7513,0.6154,0.1359,-0.09,0.3223,False,-0.4356,0.6636,False,10,0.1489,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_amplitude_uv,tgt_p300_auc_uvs,peak amplitude (tgt) - waveform area (tgt),11,0.7506,0.6154,0.1351,-0.0887,0.3309,False,-0.4424,0.6752,False,10,0.2637,20000,1.0,False
+ds003061 runs 1-2,p300_prominence_uv,tgt_p300_prominence_uv,peak prominence (diff) - peak prominence (tgt),11,0.7391,0.666,0.0731,-0.1493,0.3969,False,-0.4234,0.6586,False,10,0.34,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,p300_amplitude_uv,peak latency (diff) - peak amplitude (diff),11,0.5012,0.7126,-0.2114,-0.608,0.2852,False,-0.9745,0.6512,False,10,0.3596,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,p300_auc_uvs,peak latency (diff) - waveform area (diff),11,0.5012,0.6822,-0.181,-0.5325,0.2491,False,-0.9352,0.8671,False,10,0.3614,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,tgt_p300_amplitude_uv,peak latency (diff) - peak amplitude (tgt),11,0.5012,0.7506,-0.2493,-0.8131,0.3548,False,-1.2728,0.9217,False,10,0.3731,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,tgt_p300_mean_uv,peak latency (diff) - mean amplitude (tgt),11,0.5012,0.7513,-0.2501,-0.8328,0.3511,False,-1.2617,0.8096,False,10,0.3905,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,p300_prominence_uv,peak latency (diff) - peak prominence (diff),11,0.5012,0.7391,-0.2378,-0.7115,0.388,False,-1.072,0.9113,False,10,0.4214,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,p300_mean_uv,peak latency (diff) - mean amplitude (diff),11,0.5012,0.6443,-0.143,-0.4505,0.2494,False,-0.7249,0.6215,False,10,0.437,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,diff_mean_uv,peak latency (diff) - difference-wave mean,11,0.5012,0.6427,-0.1414,-0.4786,0.261,False,-0.854,0.7668,False,10,0.444,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_amplitude_uv,tgt_p300_prominence_uv,peak amplitude (tgt) - peak prominence (tgt),11,0.7506,0.666,0.0846,-0.2141,0.7135,False,-0.5953,1.186,False,10,0.4697,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_mean_uv,tgt_p300_prominence_uv,mean amplitude (tgt) - peak prominence (tgt),11,0.7513,0.666,0.0854,-0.2475,0.6916,False,-0.6091,1.1881,False,10,0.4785,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,tgt_p300_latency_s,peak latency (diff) - peak latency (tgt),11,0.5012,0.626,-0.1247,-0.4461,0.0828,False,-0.6308,0.2299,False,10,0.485,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,tgt_p300_prominence_uv,peak latency (diff) - peak prominence (tgt),11,0.5012,0.666,-0.1647,-0.6072,0.5933,False,-0.9973,1.194,False,10,0.5652,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,diff_mean_uv,waveform area (diff) - difference-wave mean,11,0.6822,0.6427,0.0396,-0.1096,0.175,False,-0.2768,0.3007,False,10,0.5758,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_latency_s,tgt_p300_amplitude_uv,peak latency (tgt) - peak amplitude (tgt),11,0.626,0.7506,-0.1246,-0.5603,0.3803,False,-0.9003,0.9092,False,10,0.583,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_latency_s,tgt_p300_mean_uv,peak latency (tgt) - mean amplitude (tgt),11,0.626,0.7513,-0.1254,-0.5729,0.3985,False,-0.8972,0.8394,False,10,0.5949,20000,1.0,False
+ds003061 runs 1-2,p300_prominence_uv,tgt_p300_auc_uvs,peak prominence (diff) - waveform area (tgt),11,0.7391,0.6154,0.1236,-0.3103,0.3205,False,-0.8448,0.5607,False,10,0.6336,20000,1.0,False
+ds003061 runs 1-2,p300_latency_s,tgt_p300_auc_uvs,peak latency (diff) - waveform area (tgt),11,0.5012,0.6154,-0.1142,-0.6955,0.3924,False,-1.1329,0.6065,False,10,0.6439,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,tgt_p300_mean_uv,mean amplitude (diff) - mean amplitude (tgt),11,0.6443,0.7513,-0.1071,-0.6762,0.3435,False,-1.184,0.6592,False,10,0.644,20000,1.0,False
+ds003061 runs 1-2,diff_mean_uv,tgt_p300_amplitude_uv,difference-wave mean - peak amplitude (tgt),11,0.6427,0.7506,-0.1079,-0.6518,0.3526,False,-1.0131,0.8715,False,10,0.6472,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,diff_mean_uv,peak amplitude (diff) - difference-wave mean,11,0.7126,0.6427,0.07,-0.2448,0.3926,False,-0.5576,0.8614,False,10,0.6477,20000,1.0,False
+ds003061 runs 1-2,p300_prominence_uv,tgt_p300_latency_s,peak prominence (diff) - peak latency (tgt),11,0.7391,0.626,0.1131,-0.4323,0.4298,False,-0.8229,0.6887,False,10,0.65,20000,1.0,False
+ds003061 runs 1-2,diff_mean_uv,tgt_p300_mean_uv,difference-wave mean - mean amplitude (tgt),11,0.6427,0.7513,-0.1087,-0.6935,0.3864,False,-1.0614,0.7544,False,10,0.6638,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,tgt_p300_latency_s,peak amplitude (diff) - peak latency (tgt),11,0.7126,0.626,0.0866,-0.44,0.4518,False,-0.8654,0.7429,False,10,0.6776,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,p300_mean_uv,peak amplitude (diff) - mean amplitude (diff),11,0.7126,0.6443,0.0683,-0.1858,0.353,False,-0.456,0.5566,False,10,0.714,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,tgt_p300_prominence_uv,peak amplitude (diff) - peak prominence (tgt),11,0.7126,0.666,0.0467,-0.3166,0.7233,False,-0.8061,1.1959,False,10,0.7172,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,tgt_p300_amplitude_uv,mean amplitude (diff) - peak amplitude (tgt),11,0.6443,0.7506,-0.1063,-0.664,0.3194,False,-1.1061,0.7896,False,10,0.7247,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,tgt_p300_auc_uvs,peak amplitude (diff) - waveform area (tgt),11,0.7126,0.6154,0.0972,-0.3459,0.4201,False,-0.9286,0.6917,False,10,0.7284,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,tgt_p300_amplitude_uv,peak amplitude (diff) - peak amplitude (tgt),11,0.7126,0.7506,-0.0379,-0.3983,0.2744,False,-0.9072,0.6891,False,10,0.7338,20000,1.0,False
+ds003061 runs 1-2,p300_prominence_uv,diff_mean_uv,peak prominence (diff) - difference-wave mean,11,0.7391,0.6427,0.0964,-0.476,0.5593,False,-0.9994,0.9754,False,10,0.7373,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,tgt_p300_mean_uv,peak amplitude (diff) - mean amplitude (tgt),11,0.7126,0.7513,-0.0387,-0.4566,0.3636,False,-1.0306,0.7092,False,10,0.7647,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,tgt_p300_latency_s,waveform area (diff) - peak latency (tgt),11,0.6822,0.626,0.0562,-0.4011,0.3523,False,-0.8757,0.6864,False,10,0.7654,20000,1.0,False
+ds003061 runs 1-2,p300_prominence_uv,tgt_p300_mean_uv,peak prominence (diff) - mean amplitude (tgt),11,0.7391,0.7513,-0.0123,-0.424,0.2709,False,-0.8693,0.6016,False,10,0.7685,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,tgt_p300_amplitude_uv,waveform area (diff) - peak amplitude (tgt),11,0.6822,0.7506,-0.0683,-0.6254,0.403,False,-1.1025,0.8913,False,10,0.772,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,tgt_p300_mean_uv,waveform area (diff) - mean amplitude (tgt),11,0.6822,0.7513,-0.0691,-0.6688,0.4434,False,-1.1116,0.8493,False,10,0.7877,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,p300_prominence_uv,mean amplitude (diff) - peak prominence (diff),11,0.6443,0.7391,-0.0948,-0.5928,0.4809,False,-1.0827,0.9886,False,10,0.8139,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,tgt_p300_auc_uvs,waveform area (diff) - waveform area (tgt),11,0.6822,0.6154,0.0668,-0.4566,0.4014,False,-0.8128,0.5999,False,10,0.8143,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,tgt_p300_prominence_uv,waveform area (diff) - peak prominence (tgt),11,0.6822,0.666,0.0163,-0.4283,0.7524,False,-0.8889,1.2385,False,10,0.8286,20000,1.0,False
+ds003061 runs 1-2,p300_auc_uvs,p300_prominence_uv,waveform area (diff) - peak prominence (diff),11,0.6822,0.7391,-0.0568,-0.5421,0.5192,False,-0.9717,0.9962,False,10,0.8599,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,p300_auc_uvs,mean amplitude (diff) - waveform area (diff),11,0.6443,0.6822,-0.0379,-0.4615,0.368,False,-0.8089,0.9742,False,10,0.8696,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,p300_auc_uvs,peak amplitude (diff) - waveform area (diff),11,0.7126,0.6822,0.0304,-0.3412,0.4329,False,-0.699,1.021,False,10,0.8787,20000,1.0,False
+ds003061 runs 1-2,p300_prominence_uv,tgt_p300_amplitude_uv,peak prominence (diff) - peak amplitude (tgt),11,0.7391,0.7506,-0.0115,-0.4359,0.2593,False,-0.9186,0.5233,False,10,0.8891,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,tgt_p300_latency_s,mean amplitude (diff) - peak latency (tgt),11,0.6443,0.626,0.0183,-0.5603,0.4174,False,-0.9652,0.7301,False,10,0.8938,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_amplitude_uv,tgt_p300_mean_uv,peak amplitude (tgt) - mean amplitude (tgt),11,0.7506,0.7513,-0.0008,-0.1322,0.1472,False,-0.3097,0.3404,False,10,0.8998,20000,1.0,False
+ds003061 runs 1-2,p300_amplitude_uv,p300_prominence_uv,peak amplitude (diff) - peak prominence (diff),11,0.7126,0.7391,-0.0264,-0.4104,0.4989,False,-0.888,0.9867,False,10,0.9,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_latency_s,tgt_p300_prominence_uv,peak latency (tgt) - peak prominence (tgt),11,0.626,0.666,-0.04,-0.3374,0.6706,False,-0.6381,1.226,False,10,0.9087,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,tgt_p300_prominence_uv,mean amplitude (diff) - peak prominence (tgt),11,0.6443,0.666,-0.0217,-0.5011,0.6582,False,-0.9831,1.2077,False,10,0.9174,20000,1.0,False
+ds003061 runs 1-2,diff_mean_uv,tgt_p300_latency_s,difference-wave mean - peak latency (tgt),11,0.6427,0.626,0.0167,-0.4517,0.3522,False,-0.8797,0.6741,False,10,0.9178,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_auc_uvs,tgt_p300_prominence_uv,waveform area (tgt) - peak prominence (tgt),11,0.6154,0.666,-0.0506,-0.2707,0.6174,False,-0.5219,1.1564,False,10,0.9278,20000,1.0,False
+ds003061 runs 1-2,diff_mean_uv,tgt_p300_auc_uvs,difference-wave mean - waveform area (tgt),11,0.6427,0.6154,0.0272,-0.5079,0.3651,False,-0.9133,0.5563,False,10,0.9566,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,tgt_p300_auc_uvs,mean amplitude (diff) - waveform area (tgt),11,0.6443,0.6154,0.0289,-0.545,0.4044,False,-1.0871,0.6255,False,9,0.9617,20000,1.0,False
+ds003061 runs 1-2,p300_mean_uv,diff_mean_uv,mean amplitude (diff) - difference-wave mean,11,0.6443,0.6427,0.0016,-0.3046,0.2836,False,-0.6179,0.7474,False,10,0.9727,20000,1.0,False
+ds003061 runs 1-2,diff_mean_uv,tgt_p300_prominence_uv,difference-wave mean - peak prominence (tgt),11,0.6427,0.666,-0.0233,-0.4476,0.7044,False,-0.8891,1.2324,False,10,0.9851,20000,1.0,False
+ds003061 runs 1-2,tgt_p300_latency_s,tgt_p300_auc_uvs,peak latency (tgt) - waveform area (tgt),11,0.626,0.6154,0.0106,-0.4429,0.3843,False,-0.786,0.5717,False,10,0.9888,20000,1.0,False
